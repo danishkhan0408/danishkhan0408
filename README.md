@@ -1,7 +1,4 @@
-- Hi, I’m Danish Khan
-- I’m interested in Computer Vision, and Computational Photography
-- I’m currently pursuing a Master's in Data Science at the University of Rochester
-- Reach out to me via email: danishklp@gmail.com
+
 
 <!---
 danishkhan0408/danishkhan0408 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
